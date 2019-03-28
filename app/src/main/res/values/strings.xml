@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="howdy">Oi Oi Boi</string>
+    <string name="alive">test</string>
+    <string name="challenge1Button">Challenge 1</string>
+
+    <string name="addToList">Add to sequence</string>
+    <string name="playSequence">Play sequence</string>
+    <string name="clearSequence">Clear sequence</string>
+
+</resources>
